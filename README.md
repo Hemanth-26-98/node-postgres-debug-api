@@ -28,3 +28,7 @@ Demonstrate backend API performance optimization using PostgreSQL.
 - API performance depends on database optimization
 - Indexing improves response time
 - Debugging backend performance issues
+
+## 📸 Performance Output
+
+![Performance](performance.png)
