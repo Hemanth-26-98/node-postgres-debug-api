@@ -1,5 +1,17 @@
 # Node.js + PostgreSQL Debug API
 
+## 🚀 Project Overview
+This project demonstrates how database query performance affects API response time.
+
+It compares:
+- Slow query (without index)
+- Optimized query (with index)
+
+## 🧠 Key Learning
+Database optimization directly improves backend performance.
+
+# Node.js + PostgreSQL Debug API
+
 ## 🚀 Objective
 Demonstrate backend API performance optimization using PostgreSQL.
 
